@@ -287,4 +287,12 @@ Template ini bebas digunakan untuk keperluan pembelajaran maupun pengembangan pr
 
 ---
 
+## 📁 Struktur Proyek Backend FastAPI
+
+Dokumen ini menjelaskan **struktur folder dan file** pada proyek backend FastAPI yang menggunakan **SQLModel**, **JWT Authentication**, dan **Uvicorn**. Struktur ini dirancang agar kode lebih **terorganisir, mudah dipelajari, dan mudah dikembangkan**.  
+
+**Lihat detail proyek di: [Struktur Folder](STRUKTUR_PROYEK.md)**
+
+---
+
 ✨ Semoga template ini dapat membantu mempercepat proses pengembangan backend Python Anda dan menjadi fondasi yang kuat untuk proyek FastAPI selanjutnya.
